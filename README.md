@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Deadstatic77. This is my business account.
-- 👀 I’m interested in programming, UX Design, and developing.
-- 🌱 I’m currently learning C++ Code.
-- 💞️ I’m looking to collaborate on indie games.
-- 📫 How to reach me: Discord, email.
+I make cool things
+I make cringe things
+I make funny things
+I make bad things
+
+What am I?
+I am Deadstatic.
 
 Contacts:
 Discord - Deadstatic#2390
