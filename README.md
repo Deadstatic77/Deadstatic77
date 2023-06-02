@@ -5,7 +5,7 @@
 - 📫 How to reach me: Discord, email.
 
 Contacts:
-Discord - Deadstatic#6503
+Discord - Deadstatic#2390
 - Languages I know: Python, Lua, HTML.
 <!---
 Deadstatic77/Deadstatic77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
