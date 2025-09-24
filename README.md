@@ -1,11 +1,5 @@
 ```
-I make cool things
-I make cringe things
-I make funny things
-I make bad things
-
-What am I?
-I am Deadstatic.
+i make stupid stuff that absolutely nobody asked for.
 
 Contacts:
 Discord - Deadstatic#2390
